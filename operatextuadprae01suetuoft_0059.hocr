@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operatextuadprae01suetuoft/operatextuadprae01suetuoft_0059.png"; bbox 0 0 1799 3251; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 1043 1227 1140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 1043 1227 1140">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 1043 1227 1140; baseline -0.005 -34"><span class='ocrx_word' id='word_1_1' title='bbox 279 1044 354 1106; x_wconf 88' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 463 1043 1227 1140; x_wconf 22' lang='lat' dir='ltr'>SUETON=11</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 463 1227 1059 1283">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 463 1227 1059 1283">
+     <span class='ocr_line' id='line_1_2' title="bbox 463 1227 1059 1283; baseline 0.005 -11"><span class='ocrx_word' id='word_1_3' title='bbox 463 1227 1059 1283; x_wconf 87' lang='lat' dir='ltr'><strong>TRANQUILLI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 14 1362 1460 1482">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1341 1460 1482">
+     <span class='ocr_line' id='line_1_3' title="bbox 14 1362 1460 1482; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 14 1362 1460 1482; x_wconf 68' lang='lat' dir='ltr'><strong>[XIICAESARES.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
